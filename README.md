@@ -15,6 +15,8 @@ This project uses the **Grain Demand Production dataset** (sourced from the Inte
 
 ---
 
+## Live Demo: https://zero-hunger-sdg2-mjtjf35arcewbzhexzjy3y.streamlit.app/
+
 ## 🚀 Features
 
 | Page | Description |
