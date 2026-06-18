@@ -133,7 +133,6 @@ elif page == "Random Forest":
     st.header("Random Forest Classifier - Food Security Risk Prediction")
     st.write("The model classifies each region-year record as Low, Medium, or High food security risk.")
 
-    st.info("Note: This dataset has 26 records after preprocessing. The model is trained on the full data and evaluated using cross-validation, which is the right approach for small datasets.")
 
     feature_cols = [
         "Food grain demand",
